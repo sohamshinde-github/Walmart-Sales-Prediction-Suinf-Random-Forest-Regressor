@@ -1,6 +1,6 @@
 ## Walmart Sales Prediction using Random Forest Algorithm
 
-1. As we know Walmart has the best in delivering groceries in overall USA.
+1. As we know Walmart is one of the largest company in terms of sales and employees. They are best in delivering groceries in overall USA online or in store.
 2. They have sales data which they want to analyse and predict the weekly sales.
 3. They want to find is there any relation between the holiday and sales at their 45 stores. 
 4. Also, Walmart wants to find the relation between the unemployment rate, Consumer Price Index and Weekly sales.
